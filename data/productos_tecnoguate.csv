@@ -1,0 +1,21 @@
+Nombre,Tipo de producto,Rastrear inventario,Precio de venta,Costo,Referencia interna
+"Monitor 24"" Full HD",Bienes,1,950,720,TEC-004
+"Monitor 27"" 2K",Bienes,1,1850,1450,TEC-005
+Webcam Full HD 1080p,Bienes,1,280,190,TEC-006
+Audífonos con micrófono,Bienes,1,220,150,TEC-007
+Audífonos Bluetooth,Bienes,1,380,270,TEC-008
+Mousepad gamer grande,Bienes,1,85,50,TEC-009
+Hub USB-C 7 en 1,Bienes,1,320,220,TEC-010
+Cable USB-C 1m,Bienes,1,55,30,TEC-011
+Cargador USB-C 65W,Bienes,1,260,175,TEC-012
+Power bank 20000 mAh,Bienes,1,340,240,TEC-013
+Memoria USB 64 GB,Bienes,1,75,45,TEC-014
+Disco SSD externo 1 TB,Bienes,1,780,600,TEC-015
+SSD interno 500 GB,Bienes,1,520,400,TEC-016
+Memoria RAM DDR4 8 GB,Bienes,1,340,250,TEC-017
+Router WiFi 6,Bienes,1,650,480,TEC-018
+Switch de red 8 puertos,Bienes,1,290,200,TEC-019
+Cable de red Cat6 5m,Bienes,1,40,22,TEC-020
+Regleta con protector,Bienes,1,130,85,TEC-021
+Soporte para laptop,Bienes,1,210,140,TEC-022
+"Mochila para laptop 15.6""",Bienes,1,290,190,TEC-023
